@@ -17,13 +17,14 @@ A console-based quiz game in Java inspired by the TV show *Kaun Banega Crorepati
 - **Scanner** — Taking user input
 - **Random** — Random question selection
 
-## Project Structure
+## 📁 Project Structure
 
 ```
-src/
-└── KBC/
-    ├── BSH.java                          # Question bank and display methods
-    └── BSH_Koun_Banega_Crorepatti.java   # Main game logic
+Koun-Banega-Crorepatti/
+├── KBC/
+│   ├── BSH.java                          # Question bank and display methods
+│   └── BSH_Koun_Banega_Crorepatti.java   # Main game logic
+└── README.md
 ```
 
 ## Getting Started
